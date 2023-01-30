@@ -1,0 +1,4 @@
+jan:kowalski:500400300:aleje jerozolimskie 12/2 Warszawa
+anna:nowak:400300200:ulica starowiślna 1/10 Kraków
+barbara:kowalczyk:600500300:ulica nowa 12/2 Gdańsk
+adam:malysz::ulica nowa 12/2 Gdańsk
